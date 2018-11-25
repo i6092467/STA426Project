@@ -1,5 +1,7 @@
 # Comparison of Dimensionality Reduction Techniques for RNA-seq Data - STA 426 Project
 
+This project is intended for STA 426 course and will be written by Ricards Marcinkevics (GitHub username: i6092467).
+
 In this project we would like to compare different dimensionality reduction techniques (PCA, MDS under various distances, t-SNE, LLE etc.) w.r.t. their ability to preserve treatment effect signals. 
 * We will choose 2-3 *source* RNA-seq raw count datasets and, possibly, normalise them to remove unwanted variation. We could also perform the comparison in presence of the unwanted variation.
 * We will simulate datasets from the *sources* using a non-parametric [SimSeq][1] approach. Datasets will be simulated under two settings: the global null and differential expression.

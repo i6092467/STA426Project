@@ -8,4 +8,6 @@ In this project we would like to compare different dimensionality reduction tech
 * We will compare dimensionality reduction methods by measuring how well treatment clusters are separated in the reduced space. Possible criteria for comparison include average silhouette width (ASW), within-cluster sum of squares, within-class and between-class variance ratio, accuracy of the nearest neighbour algoritm (1-NN) when predicting treatment group in the reduced space etc. Note, that herein samples will be assigned to clusters according to their treament group.
 * We will aggregate the performance measures across simulated datasets for each method to draw final conclusions.
 
+**Disclaimer**: This was my initial plan, some things have changed in the final report. Please find the .pdf, .Rmd and other files attached in the repository.
+
 [1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481850/ "SimSeq: a nonparametric approach to simulation of RNA-sequence datasets"
